@@ -81,7 +81,7 @@ export default function Tasks() {
                     dispatch(completeTask(task));
                   }}
                 >
-                  {task.completed ? "Mark as Uncomplete" : "Mark as Completed"}
+                  {task.completed ? "Mark as on going" : "Mark as Completed"}
                 </button>
               </div>
               <div className="text-center pt-1">
