@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Clone it to your device
+
 In the project directory run:
 
 ### `npm install`
